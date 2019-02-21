@@ -1,2 +1,2 @@
-# Imooc_Algorithm_C-
+# Imooc_Algorithm_C++
 Learning and coding in C++.
