@@ -17,7 +17,7 @@ void selectionSort( int arr[], int n )
 
         if (min != i)
         {
-            swap( arr[i], arr[min] ); //c++ 11 ÖĞ´Ëº¯ÊıÎ»ÓÚstdÖĞ
+            swap( arr[i], arr[min] ); //c++ 11 ä¸­æ­¤å‡½æ•°ä½äºstdä¸­
             /*int swap = arr[i];
             arr[i] = arr[min];
             arr[min] = swap;  */
